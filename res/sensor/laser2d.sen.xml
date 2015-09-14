@@ -1,0 +1,7 @@
+<sensor type="BaseLaser2D" args="">
+	<minangle>-135</minangle>
+	<maxangle>135</maxangle>
+	<resolution>0.35</resolution>
+	<maxrange>5</maxrange>
+	<scantime>0.1</scantime>
+</sensor>

@@ -1,0 +1,10 @@
+<sensor type="sit_distance">
+	<max_range>0.822</max_range>
+	<min_range>0</min_range>
+	<resolution>0.005</resolution>
+	<color>1 0 0</color>
+	<realcolor>0 1 0</realcolor>
+	<scantime>0.1</scantime>
+	<power>0</power>
+	<mesh>../sensor/beam/cone.dae</mesh>
+</sensor>

@@ -1,0 +1,27 @@
+<body type="static">
+	<geom type="box">
+		<extents>0.01 0.02 0.99</extents>
+		<translation>-0.79 0 0.99</translation>
+		<diffusecolor>.6 .6 .6</diffusecolor>
+	</geom>
+	<geom type="box">
+		<extents>0.01 0.02 0.99</extents>
+		<translation>0.79 0.15 0.99</translation>
+		<diffusecolor>.6 .6 .6</diffusecolor>
+	</geom>
+	<geom type="box">
+		<extents>0.01 0.02 0.99</extents>
+		<translation>0.79 -0.15 0.99</translation>
+		<diffusecolor>.6 .6 .6</diffusecolor>
+	</geom>
+	<geom type="box">
+		<extents>0.01 0.15 0.02</extents>
+		<translation>0.79 0 1.92</translation>
+		<diffusecolor>.6 .6 .6</diffusecolor>
+	</geom>
+	<geom type="box">
+		<extents>0.79 0.02 0.01</extents>
+		<translation>0 0 1.92</translation>
+		<diffusecolor>.6 .6 .6</diffusecolor>
+	</geom>
+</body>
