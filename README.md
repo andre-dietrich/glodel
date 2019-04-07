@@ -3,11 +3,10 @@
 Implementation of a distributed scene-graph like structure for organizing
 data and information in smart environments
 
-| | |
+| Author      | André Dietrich                                                                           |
 | ----------- | ---------------------------------------------------------------------------------------- |
-| Authors     | André Dietrich & Sebastian Zug                                                           |
-| Source      | `git clone` https://gitlab.com/OvGU-ESS/glodel.git                                |
-| Email       | <mailto:dietrich@ivs.cs.uni-magdeburg.de> & <mailto:zug@ivs.cs.uni-magdeburg.de>         |
+| Source      | `git clone` https://github.com/andre-dietrich/glodel.git                                 |
+| Email       | <mailto:andre.dietrich@ovgu.de>                                                          |
 | Publication | Distributed Management and Representation of Data and Context in Robotic Applications    |
 || http://eos.cs.ovgu.de/wp-content/uploads/2015/06/Distributed-Management-and-Representation-of-Data-and-Context-in-Robotic-Applications.pdf |
 | Slides      | (Impress.JS) http://eos.cs.ovgu.de/wp-content/uploads/2015/06/ImpressJS-Slides.zip       |
